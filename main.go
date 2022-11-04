@@ -1,4 +1,4 @@
-package go_enry_cli
+package main
 
 import (
 	"bufio"
